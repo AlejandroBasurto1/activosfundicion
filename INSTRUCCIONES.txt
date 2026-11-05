@@ -1,0 +1,6 @@
+ICSSA CAMPO — PAQUETE PWA
+Este paquete está preparado para convertirse en aplicación instalable.
+Para que aparezca como enlace instalable debe publicarse en un dominio HTTPS.
+Android: abrir el enlace en Chrome y elegir Instalar aplicación / Añadir a pantalla de inicio.
+iPhone: abrir el enlace en Safari > Compartir > Agregar a pantalla de inicio.
+La aplicación almacena registros localmente en cada dispositivo. No hay sincronización compartida entre usuarios en esta versión.
